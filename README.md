@@ -1,4 +1,4 @@
 # Simulation
-Download .zip file
-Unzip file
+Download .zip file,
+Unzip file,
 Play simulation
